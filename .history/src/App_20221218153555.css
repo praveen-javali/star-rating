@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  min-height: 100vh;
+}
+input[type="radio"] {
+  display: none;
+}
